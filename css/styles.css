@@ -130,6 +130,15 @@ header {
         margin: 0 auto;
 
     }
+    .video{
+        display: block;
+        margin: auto;
+        aspect-ratio: 16/9;
+        width: 80%;
+        border: 6px solid #FA842E;
+        border-radius: 20px;
+
+    }
 }    
 
     footer {
