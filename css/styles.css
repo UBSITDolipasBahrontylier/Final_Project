@@ -156,13 +156,14 @@ header {
     box-shadow: 0 6px 32px 0 rgba(0, 153, 255, 0.35), 0 2px 8px rgba(0,0,0,0.17);
     border-color: #009fff;
     outline: none;
+
+}    
 .responsive-img:hover, .responsive-img:focus {
     transform: scale(1.15) rotate(-3deg);
     box-shadow: 0 6px 32px 0 rgba(0, 153, 255, 0.25), 0 2px 8px rgba(0,0,0,0.13);
        border-color: #009fff;
     outline: none;
     }
-}
 
 .sdg-row {
     display: flex;
